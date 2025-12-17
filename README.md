@@ -21,6 +21,8 @@ Built with Python and Tkinter, this application runs as a transparent overlay ab
 - Real-time customization UI
 - Lightweight and low CPU usage
 
+![Cursor Highlighter Preview](./cursor.gif)
+
 ---
 
 ## 🎨 Customization Options
@@ -46,4 +48,5 @@ All settings are adjustable in real time via the built-in settings window.
 
 ---
 
-## 🚀 Installation (From Source)
+## 🚀 Download (From Source)
+- Download "Cursor Highlighter.exe"
